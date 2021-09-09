@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+}
+
+
+#contact_1 {
+   
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+#video iframe {
+    width: 100%;
+}
+
+input {
+    background-color: grey;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+h1 {
+    line-height: 1.2;
+    font-weight: 300;
+    font-family: cursive;
+    font-size: 40px;
+    line-height: 1.2;
+    font-weight: 300;
+    font-family: monospace;
+    ;
+    font-size: 40px;
+}
+
+#heading{
+    color:black;
+}
+#cont{
+    margin-left: 270px;
+}
+.movie_head{
+    font-size: 20px;
+    margin: 15px;
+    border-radius: 10px;
+    text-align: left;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color:orange;
+}
+img{
+    position:static;
+}
+p{
+    color: black
+}
+#his{
+    width: 800px;
+}
