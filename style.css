@@ -64,3 +64,13 @@ p{
 #his{
     width: 800px;
 }
+.more_li {
+  margin-top: 13px;  
+}
+.more_li h2{
+    border-bottom: 1px  white;
+    padding: 8;
+}
+.more_li img{
+    border-radius: 60px;
+}
